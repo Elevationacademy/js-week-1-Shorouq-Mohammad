@@ -15,10 +15,15 @@
 // console.log(result)
 
 // this is the third exercise
-let password = "something"
-let confirmPassword = "something"
-if (password === confirmPassword){
-    console.log("they are a match")
-}else{
-    console.log("they are not a match")
-}
+// let password = "something"
+// let confirmPassword = "something"
+// if (password === confirmPassword){
+//     console.log("they are a match")
+// }else{
+//     console.log("they are not a match")
+// }
+
+// this is the fourth exercise
+console.log(423 * 12)
+console.log(802 / 2)
+console.log((5+6)*3)
